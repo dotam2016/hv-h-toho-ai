@@ -23,3 +23,20 @@ Next.js / TypeScript / Tailwind CSS / Framer Motion / GSAP / Lenis / Lucide Icon
 npm install
 npm run dev
 ```
+
+## 2026-06-30 添付フィードバック反映
+
+最新ソースとして feedback.pptx と添付画像2点を反映しました。
+
+- Hero画像を `3da4a52c-731d-4fa4-84d0-340c97ba14da.png` 由来の `public/media/hero-commute-latest.png` に差し替え
+- Specs画像を `fd3c8437-981b-4a16-b568-9b4b2b3dce02.png` 由来の `public/media/spec-product-latest.png` に差し替え
+- 明るい背景セクションでロゴとナビゲーションが背景に溶け込まないよう、スクロール位置に応じてナビの背景・文字色・ロゴ表示を自動切替
+- 未使用になった旧Hero/Specs画像を削除
+
+この環境では外部プロセス起動制限により npm install / typecheck / build / dev server は実行できませんでした。通常環境では以下で確認できます。
+
+```bash
+npm install
+npm run typecheck
+npm run build
+```
