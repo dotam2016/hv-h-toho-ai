@@ -52,3 +52,5 @@ CLAUDE.md
 
 # playwright mcp artifacts
 /.playwright-mcp
+
+node_modules
