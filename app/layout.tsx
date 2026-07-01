@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "TOHO 電動バイク | Compact Electric Mobility",
+  title: "FOLMO 電動バイク | Compact Electric Mobility",
   description: "株式会社TOHOが展開するコンパクト電動バイクのプレミアムブランドサイト試作。",
   openGraph: {
-    title: "TOHO 電動バイク",
-    description: "街をスマートに走る、TOHOコンパクト電動バイク。",
+    title: "FOLMO 電動バイク",
+    description: "街をスマートに走る、FOLMOコンパクト電動バイク。",
     images: ["/media/hero-commute-helmet.png"]
   }
 };
