@@ -40,3 +40,17 @@ npm install
 npm run typecheck
 npm run build
 ```
+
+## 2026-07-01 TOHO-TypeB.pptx 反映
+
+添付された `TOHO-TypeB.pptx` を最新ソースとして、既存プロジェクトに差分反映しました。
+
+- キービジュアルの男性に自然な黒い自転車用ヘルメットを追加した新Hero画像 `public/media/hero-commute-helmet.png` を作成し、HeroとOG画像に反映
+- Hero見出しを `街を、 / スマートに走る` に変更
+- Story見出しを `移動は、 / 毎日を変える体験になる。` に変更
+- Design見出しを `たためるから、 / 行ける場所が広がる。` に変更
+- Specs見出しを `毎日の移動を支える、 / 確かなスペック` に変更
+- Safety/Light見出しを `夜の街にも / 光を照らす` に変更
+- Campaign見出しを `走り出す日は、 / もうすぐ` に変更
+- 旧Hero画像 `hero-commute-latest.png` を未使用アセットとして削除
+

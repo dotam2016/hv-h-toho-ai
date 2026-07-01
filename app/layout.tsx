@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description: "株式会社TOHOが展開するコンパクト電動バイクのプレミアムブランドサイト試作。",
   openGraph: {
     title: "TOHO 電動バイク",
-    description: "街をもっと軽くする、TOHOコンパクト電動バイク。",
-    images: ["/media/hero-commute-latest.png"]
+    description: "街をスマートに走る、TOHOコンパクト電動バイク。",
+    images: ["/media/hero-commute-helmet.png"]
   }
 };
 
